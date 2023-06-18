@@ -28,27 +28,19 @@ Here are some ideas to get you started:
 
 或许可以改变世界的事情
 
+<br>
 
+间歇性混吃等死 间歇性踌躇满志
 
-间歇性混吃等死
+间歇性充满希望 间歇性社牛交际
 
-间歇性踌躇满志
+<br>
 
-间歇性充满希望
+持续性异性绝缘 持续性热爱运动
 
-间歇性社牛交际
+持续性三分热度 持续性基友多多
 
-
-
-持续性异性绝缘
-
-持续性热爱运动
-
-持续性三分热度
-
-持续性基友多多
-
-
+<br>
 
 :heart::heart::heart:喜欢做的事情 :heart::heart::heart:
 
@@ -68,6 +60,8 @@ The End of the Fxxxing World
 
 Spider-man: Across the Spider-verse
 
+Puss in Boots
+
 盲井
 
 霸王别姬
@@ -86,9 +80,9 @@ Spider-man: Across the Spider-verse
 
 Stay hungry, stay foolish.
 
-<div style="text-align:right">---NOT from Jobs</div>
+<div align="right">---NOT from Jobs</div>
 
-
+<br>
 
 <!-- 语言技术标签 -->
 📖 Learning(All is not learned): 
@@ -131,7 +125,7 @@ Stay hungry, stay foolish.
 
 :man_student::man_technologist::man_artist:有无限可能:man_student::man_technologist::man_artist:
 
-
+<br>
 
 <!-- 统计 -->
 
