@@ -22,65 +22,43 @@ Here are some ideas to get you started:
 
 :older_man: :man::baby: 关于我:baby::man::older_man:
 
-一个普普通通的十四亿分之一
-
-希望可以做出一些有用的、
+一个普普通通的十四亿分之一，希望可以做出一些有用的、
 
 或许可以改变世界的事情
 
 <br>
 
-间歇性混吃等死 间歇性踌躇满志
-
-间歇性充满希望 间歇性社牛交际
+间歇性混吃等死 间歇性踌躇满志 间歇性充满希望 间歇性社牛交际
 
 <br>
 
-持续性异性绝缘 持续性热爱运动
-
-持续性三分热度 持续性基友多多
+持续性异性绝缘 持续性热爱运动 持续性三分热度 持续性基友多多
 
 <br>
 
 :heart::heart::heart:喜欢做的事情 :heart::heart::heart:
 
-美（英）剧！
+美（英）剧！电影！运动！单机！
 
-<!--Big Bang Theory
-
-Black Mirror
-
-The End of the Fxxxing World
-
--->
-
-电影！
-
-<!--
-
-Spider-man: Across the Spider-verse
-
-Puss in Boots
-
-盲井
-
-霸王别姬
-
-太多了，以后慢慢补
-
--->
-
-运动！
-
-跑步、篮球（羽毛球、乒乓球、足球）
-
-
+<br>
 
 :stew::stew::stew:来点鸡汤吧！:stew::stew::stew:
 
-Stay hungry, stay foolish.
+---
+
+> Stay hungry, stay foolish.
 
 <div align="right">---NOT from Jobs</div>
+
+---
+
+> 千里之行，始于足下。
+
+<div align="right">---老子（子请重读）</div>
+
+---
+
+
 
 <br>
 
@@ -98,9 +76,8 @@ Stay hungry, stay foolish.
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DAE8FC?style=plastic&logo=JavaScript">
   <br>
 </div>
-
 <!-- 工具 -->
-🛠️ Tools:
+🛠️ Tools(All is not used):
 
 <div align="center">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
@@ -121,16 +98,41 @@ Stay hungry, stay foolish.
 
 :walking::walking::walking:人生漫漫:walking::walking::walking:
 
-
-
 :man_student::man_technologist::man_artist:有无限可能:man_student::man_technologist::man_artist:
 
 <br>
 
 <!-- 统计 -->
 
-<img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api?username=hhr346&hide_title=true&hide_border=true&show_icons=true&&count_private=trueinclude_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api/top-langs/?username=hhr346&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+<img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api?username=hhr346&hide_title=true&hide_border=true&show_icons=true&&count_private=true&&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api/top-langs/?username=hhr346&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
 <br />
 
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/hhr346/count.svg)
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
