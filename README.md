@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 :older_man: :man::baby: 关于我:baby::man::older_man:
 
-一个普普通通的十四亿分之一，希望可以做出一些有用的、
-
-或许可以改变世界的事情
+一个普普通通的十四亿分之一，希望可以做出一些有用的、或许可以改变世界的事情
 
 <br>
 
