@@ -14,27 +14,35 @@
 
 持续性异性绝缘 持续性热爱运动 持续性三分热度 持续性基友多多
 
-<hr>
+<br>
+
 
 :heart::heart::heart:喜欢做的事情 :heart::heart::heart: ：美（英）剧！电影！运动！单机！
 
 :stew::stew::stew:来点鸡汤吧！:stew::stew::stew:
 
----
+<hr>
 
 > Stay hungry, stay foolish.
 
 <div align="right">---NOT from Jobs</div>
 
+<hr>
+
 > 千里之行，始于足下。
 
 <div align="right">---老子（子请重读）</div>
+
+<hr>
 
 > 人生漫漫，有无限可能，要在无意义的世界找寻有意义的人生。
 
 <div align="right">---沃朔德</div>
 
 <hr>
+
+<br>
+
 <!-- 语言技术标签 -->
 📖 Learning(All is not learned): 
 
@@ -60,7 +68,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
   </div>
-<hr>
+<br>
 
 <!-- 统计 -->
 
