@@ -30,7 +30,7 @@
 
 <div align="right">---老子（子请重读）</div>
 
-> 在无意义的世界找寻有意义的人生。
+> 人生漫漫，有无限可能，要在无意义的世界找寻有意义的人生。
 
 <div align="right">---沃朔德</div>
 
@@ -60,11 +60,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
   </div>
-
 <hr>
-<!-- 统计 -->
-> :walking::walking::walking:人生漫漫:walking::walking::walking: :man_student::man_technologist::man_artist:有无限可能:man_student::man_technologist::man_artist:
-<br>
 
 <!-- 统计 -->
 
