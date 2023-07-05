@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**hhr346/hhr346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./asset/darkmode.png">
  <source media="(prefers-color-scheme: light)" srcset="./asset/lightmode.png">
@@ -31,8 +17,6 @@ Here are some ideas to get you started:
 <br>
 
 :heart::heart::heart:喜欢做的事情 :heart::heart::heart: ：美（英）剧！电影！运动！单机！
-
-<br>
 
 :stew::stew::stew:来点鸡汤吧！:stew::stew::stew:
 
@@ -75,24 +59,16 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
-
   <img alt="Windows" src="https://img.shields.io/badge/Windows-39baf4?style=flat-square&logo=windows&logoColor=white">
-    
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black">
-
   <img alt="Git" src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git">
-    
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
-    
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
-</div>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
+  </div>
 
 <hr>
 <!-- 统计 -->
-
-:walking::walking::walking:人生漫漫:walking::walking::walking:
-
-:man_student::man_technologist::man_artist:有无限可能:man_student::man_technologist::man_artist:
+> :walking::walking::walking:人生漫漫:walking::walking::walking: :man_student::man_technologist::man_artist:有无限可能:man_student::man_technologist::man_artist:
 
 <br>
 
@@ -100,33 +76,4 @@ Here are some ideas to get you started:
 
 <img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api?username=hhr346&hide_title=true&hide_border=true&show_icons=true&&count_private=true&&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api/top-langs/?username=hhr346&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
-<br />
-
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/hhr346/count.svg)
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [99,28],
-              [99,30],
-              [100,30],
-              [100,28],
-              [99,28]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
