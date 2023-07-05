@@ -14,7 +14,7 @@
 
 持续性异性绝缘 持续性热爱运动 持续性三分热度 持续性基友多多
 
-<br>
+<hr>
 
 :heart::heart::heart:喜欢做的事情 :heart::heart::heart: ：美（英）剧！电影！运动！单机！
 
@@ -26,20 +26,15 @@
 
 <div align="right">---NOT from Jobs</div>
 
----
-
 > 千里之行，始于足下。
 
 <div align="right">---老子（子请重读）</div>
 
----
-
 > 在无意义的世界找寻有意义的人生。
 
-<div align="right">---我说的</div>
+<div align="right">---沃朔德</div>
 
-<br>
-
+<hr>
 <!-- 语言技术标签 -->
 📖 Learning(All is not learned): 
 
@@ -69,11 +64,10 @@
 <hr>
 <!-- 统计 -->
 > :walking::walking::walking:人生漫漫:walking::walking::walking: :man_student::man_technologist::man_artist:有无限可能:man_student::man_technologist::man_artist:
-
 <br>
 
 <!-- 统计 -->
 
 <img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api?username=hhr346&hide_title=true&hide_border=true&show_icons=true&&count_private=true&&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="120" src="https://github-readme-stats-mui.vercel.app/api/top-langs/?username=hhr346&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
-累计访问次数：![Visitor Count](https://profile-counter.glitch.me/hhr346/count.svg)
+累计访问次数：![Visitor Count](https://profile-counter.glitch.me/hhr346/count.svg) 
