@@ -24,19 +24,13 @@ Here are some ideas to get you started:
 
 一个普普通通的十四亿分之一，希望可以做出一些有用的、或许可以改变世界的事情
 
-<br>
-
 间歇性混吃等死 间歇性踌躇满志 间歇性充满希望 间歇性社牛交际
-
-<br>
 
 持续性异性绝缘 持续性热爱运动 持续性三分热度 持续性基友多多
 
 <br>
 
-:heart::heart::heart:喜欢做的事情 :heart::heart::heart:
-
-美（英）剧！电影！运动！单机！
+:heart::heart::heart:喜欢做的事情 :heart::heart::heart: ：美（英）剧！电影！运动！单机！
 
 <br>
 
@@ -56,7 +50,9 @@ Here are some ideas to get you started:
 
 ---
 
+> 在无意义的世界找寻有意义的人生。
 
+<div align="right">---我说的</div>
 
 <br>
 
