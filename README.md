@@ -5,9 +5,9 @@
  <source media="(prefers-color-scheme: light)" srcset="./asset/lightmode.png">
  <img alt="FEARmeIFyouDARE" src="./asset/darkmode.png">
 </picture>
+
+
 > Man on the mission, change the terrible world.
-
-
 
 > Have faith whatever it is 
 
