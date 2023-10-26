@@ -1,4 +1,4 @@
-### Fear Me IF you DARE
+### FEAR ME IF  DARE
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./asset/darkmode.png">
